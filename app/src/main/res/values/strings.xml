@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">laba1</string>
+    <string name="increment">Добавить</string>
+    <string name="decrement">Отнять</string>
+    <string name="go_result">Перейти на страницу с результатом </string>
+    <string name="return_page">Вернуться</string>
+    <string name="zero">0</string>
+    <string name="theme">Тема</string>
+
+</resources>
